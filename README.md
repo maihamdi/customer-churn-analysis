@@ -34,6 +34,7 @@ The project explores customer churn across several dimensions, including:
 ## Dashboard
 
 An Excel dashboard was created to summarize key customer churn metrics and provide an overview of the main patterns found in the data.
+![Databel Customer Churn Dashboard](Databel_Dashboard.png)
 
 ## Key Insights
 
